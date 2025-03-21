@@ -2,7 +2,7 @@
 #Assets pulled from Unity Store
 
 -Objective-
-survive as long as possible. (Temporarily 5 enemies)
+survive as long as possible.
 
 #Files organized via branches
 #Built with Unity Version 2022.3.57f1
